@@ -39,7 +39,7 @@
 | **Investment, Consulting, Research & Analysis** |
 
 >#### Start-up incubation and investment focused on VR/AR/MR, A.I, Blockchain and Healthcare - TMT related innovative cutting-edge projects. 
->#### Providing high-end industry consulting & management service for our investment portfolio such as Sunrise Calendar, Api.ai, X.ai, AIMatter, Cycle Computing, SambaNova, OnScale, BotChain, Platform.sh, Kaggle, Vertex.ai, Drive.ai, Healthcare.ai, Lobe.ai, Bonsai.ai, Bitfusion, Apex.AI, Builder.ai etc. 
+>#### Providing high-end industry consulting & management service for our investment portfolio such as Sunrise Calendar, Api.ai, X.ai, AIMatter, Cycle Computing, SambaNova, OnScale, BotChain, Platform.sh, Kaggle, Vertex.ai, Drive.ai, Healthcare.ai, Lobe.ai, Bonsai.ai, Bitfusion, Apex.AI, Builder.ai AmpereComputing etc. 
 
 | **Healthcare Exploration, Medical Diagnosis** |
 
