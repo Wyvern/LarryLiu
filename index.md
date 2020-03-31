@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome-animation/0.2.1/font-awesome-animation.min.css" onload="this.onload=null;this.rel='stylesheet'">
 
 <h1 id="user" align="center"><a href="#wechat" ><i class="far fa-user-circle fa-2x faa-float animated faa-slow"></i></a></h1>
