@@ -143,7 +143,7 @@ World leading mobile app search & security solution provider.
 
 <a href="https://teams.microsoft.com/l/channel/19%3a920fae62420149ecb9e7a1e9a2eb621d%40thread.skype/General?groupId=d7b09469-2abb-4078-b2dd-e4ea0cdc4a28&tenantId=cffff7eb-7f81-41a8-a586-0cd0d3cc8810" ><img src="Teams.png" align="center" width="170" height="170" loading="lazy" /></a>
  
-<a href="https://join.skype.com/invite/mjKZpHNOQvyo" ><img src="skype.png" align="center" width="170" height="170" loading="lazy" /></a>
+<a href="https://join.skype.com/ki3n1R3VKh0K" ><img src="skype.png" align="center" width="170" height="170" loading="lazy" /></a>
 
 <a href="#user" ><img src="QR.png" align="right" loading="lazy" /></a>
 
