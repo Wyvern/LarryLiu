@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/fontawesome.min.css" onload="this.onload=null;this.rel='stylesheet'">
 <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome-animation/0.3.0/font-awesome-animation.min.css" onload="this.onload=null;this.rel='stylesheet'">
 
 <h1 id="user" align="center"><a href="#wechat" ><i class="far fa-user-circle fa-2x faa-float animated faa-slow"></i></a></h1>
@@ -36,12 +36,12 @@
 >#### Dynamic Graphs: Gluon enables developers to define neural network models that are dynamic, meaning they can be built on the fly, with any structure, and using any of Python’s native control flow.
 >#### High Performance: Gluon provides all of the above benefits without impacting the training speed that the underlying engine provides.
  
-| **Investment, Consulting, Research & Analysis** |
+| **Investment, Consulting, Research in AI chips - Neural Engine, GPU, FPGA/ASIC design** |
 
 >#### Start-up incubation and investment focused on VR/AR/MR, A.I, Blockchain and Healthcare - TMT related innovative cutting-edge projects. 
 >#### Providing high-end industry consulting & management service for our investment portfolio such as Sunrise Calendar, Api.ai, X.ai, AIMatter, Cycle Computing, SambaNova, OnScale, BotChain, Platform.sh, Kaggle, Vertex.ai, Drive.ai, Healthcare.ai, Lobe.ai, Bonsai.ai, Bitfusion, Apex.AI, Builder.ai AmpereComputing etc. 
 
-| **Healthcare Exploration, Medical Diagnosis** |
+| **Biotech Exploration, AI Health Diagnosis, Big Data & Machine learning in Pharma** |
 
 >#### In particular, interdisciplinary examination through cross industry resource integration in the field of medicine and healthcare.
 >#### Accelerating early research and development of drugs experimentation and creation; medical imaging analytics, prediction, rapid screening as an application-oriented one-stop solution for clinical exploration.
