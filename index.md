@@ -30,7 +30,7 @@
 
 <h3 align="center"><i class="fas fa-tasks fa-fw fa-lg"></i></h3>
 
-| **Open AI development - Apache unified API library across A.I. frameworks** |
+| **Open AI development - Apache unified API library across AI frameworks** |
 
 >#### Flexible, Imperative Structure: Gluon does not require the neural network model to be rigidly defined, but rather brings the training algorithm and model closer together to provide flexibility in the development process.
 >#### Dynamic Graphs: Gluon enables developers to define neural network models that are dynamic, meaning they can be built on the fly, with any structure, and using any of Python’s native control flow.
