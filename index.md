@@ -139,7 +139,7 @@ World leading mobile app search & security solution provider.
 
 <h3 id="wechat" align="center">
  
-<a id="im" ><img src="imessage.png" align="left" width="160" height="160" loading="lazy" /></a>
+<a id="im" ><img src="imessage.png" align="center" width="160" height="160" loading="lazy" /></a>
 
 <a href="https://meet.google.com/jnf-xgnr-pzu" ><img src="meet.png" align="center" width="170" height="170" loading="lazy" /></a>
 
@@ -149,7 +149,7 @@ World leading mobile app search & security solution provider.
  
 <a href="https://join.skype.com/ki3n1R3VKh0K" ><img src="skype.png" align="center" width="170" height="170" loading="lazy" /></a>
 
-<a href="#user" ><img src="QR.png" align="right" loading="lazy" /></a>
+<a href="#user" ><img src="QR.png" align="center" loading="lazy" /></a>
 
 </h3>
 
