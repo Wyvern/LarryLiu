@@ -1,6 +1,6 @@
 header.page-header h2 {margin-bottom: -2rem;padding-bottom: 0rem;}
 header.page-header a {display:none;}
-main#content {padding-top: 0.2rem}
+main#content {margin-top: 0rem;padding-top: 0.2rem}
 footer {display:none;}
 
 body {
