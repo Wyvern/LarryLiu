@@ -19,7 +19,7 @@
 
 <h1 align="center"><i class="fa fa-id-card faa-shake animated-hover faa-slow"></i> Experience</h1>
 
-## <img src="feather.png" width="32" height="32" class="faa-wrench animated faa-slow"/> Founder of AI Incubation Group & President of Apache NLP Gluon
+## <img src="feather.png" width="32" height="32" class="faa-wrench animated faa-slow"/> Founder & President of Apache NLP Gluon.AI
 
 <i class="fas fa-map-marker-alt fa-fw"></i> Seattle, WA / Beijing • 2015 - Present
 
