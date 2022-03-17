@@ -23,7 +23,7 @@
 
 <i class="fas fa-map-marker-alt fa-fw"></i> Seattle, WA / Beijing • 2015 - Present
 
-### <i class="far fa-id-badge fa-lg fa-fw faa-passing animated faa-slow"></i> Angel Investor & Incubator | President of Apache Software Foundation [Gluon.AI](https://nlp.gluon.ai/)
+### <i class="far fa-id-badge fa-lg fa-fw faa-passing animated faa-slow"></i> Angel Investor & Incubator | President of Apache Software Foundation [Gluon.AI](https://nlp.gluon.ai/) & [onnx.ai](https://onnx.ai/)
 <p align="right"><i class="fas fa-quote-left faa-shake animated faa-slow"></i> A clear, concise, simple yet powerful & efficient API for Apache MXNet & Microsoft CNTK.</p>
 <p align="right"> <b>GluonCV Toolkit</b> - state of the art deep learning algorithms in Computer Vision (CV)</p>
 <p align="right"> <b>GluonNLP Toolkit</b> - state of the art deep learning algorithms in Natural Language Processing (NLP)</p>
