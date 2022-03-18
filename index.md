@@ -26,7 +26,7 @@
 ### <i class="far fa-id-badge fa-lg fa-fw faa-passing animated faa-slow"></i> Angel Investor & Incubator | President of Apache Software Foundation [Gluon.AI](https://nlp.gluon.ai/) | [onnx.ai](https://onnx.ai/)
 <p align="right"><i class="fas fa-quote-left faa-shake animated faa-slow"></i> A clear, concise, simple yet powerful & efficient API for MXNet & CNTK</p>
 <p align="right"> <b>Gluon</b> - state of the art deep learning algorithms in Computer Vision & NLP</p>
-<p align="right"> <b>ONNX</b> - defines a common set of operators : the building blocks of machine learning and deep learning models </p>
+<p align="right"> <b>ONNX</b> - a common set of operators ⨐  building blocks of machine learning and deep learning models </p>
 
 <h3 align="center"><i class="fas fa-tasks fa-fw fa-lg"></i></h3>
 
