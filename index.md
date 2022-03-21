@@ -24,7 +24,7 @@
 <i class="fas fa-map-marker-alt fa-fw"></i> Seattle, WA / Beijing • 2015 - Present
 
 ### <i class="far fa-id-badge fa-lg fa-fw faa-passing animated faa-slow"></i> Angel Investor & Incubator | President of Apache Software Foundation [Gluon-Lang](https://gluon-lang.org/) | [Gluon.ai](https://nlp.gluon.ai/) | [ONNX.ai](https://onnx.ai/)
-<p align="right"><i class="fas fa-quote-left faa-shake animated faa-slow"></i> Gluon is a static, type inferred and embeddabble language written in Rust.</p>
+<p align="right"><i class="fas fa-quote-left faa-shake animated faa-slow"></i> ]Gluon](https://gluon-lang.org/)  is a static, type inferred and embeddabble language written in Rust.</p>
 <p align="right"> <b>Gluon AI</b> - state of the art deep learning algorithms in Computer Vision & NLP</p>
 <p align="right"> <b>ONNX AI</b> - a common set of operators ⨕ : ⭇ building blocks of ML and DL models </p>
 
