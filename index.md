@@ -29,7 +29,7 @@
 <p align="right"> <b>Gluon AI</b> - state of the art deep learning algorithms in Computer Vision & NLP</p>
 <p align="right"> <b>ONNX AI</b> - a common set of operators ⨕ : ⭇ building blocks of ML and DL models </p>
 
-<h3 align="center"><i class="fas fa-tasks fa-fw fa-lg"></i></h3>
+<h3 align="center"><i class="fas fa-tasks fa-fw fa-lg faa-burst animated"></i></h3>
 
 | **Open AI development - Apache unified API library across AI frameworks** |
 
