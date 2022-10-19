@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 
-<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" onload="this.onload=null;this.rel='stylesheet'">
-<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome-animation/0.3.0/font-awesome-animation.min.css" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/font-awesome-animation@1.1.1/font-awesome-animation.scss" onload="this.onload=null;this.rel='stylesheet'">
 
 <h1 id="user" align="center"><a href="#wechat" ><i class="far fa-user-circle fa-2x faa-float animated faa-slow"></i></a></h1>
 
@@ -144,7 +144,7 @@ World leading mobile app search & security solution provider.
 
 <a href="https://zoom.us/j/93401927414?pwd=S2VaRXR4bnErUytjYWQxdHZLVVd4dz09" ><img src="zoom.jpg" align="center" width="180" height="180" loading="lazy" /></a>
 
-<a href="https://teams.microsoft.com/l/channel/19%3a920fae62420149ecb9e7a1e9a2eb621d%40thread.skype/General?groupId=d7b09469-2abb-4078-b2dd-e4ea0cdc4a28&tenantId=cffff7eb-7f81-41a8-a586-0cd0d3cc8810" ><img src="Teams.png" align="center" width="170" height="170" loading="lazy" /></a>
+<a href="https://meet.google.com/aay-nrpp-cfi" ><img src="Meet.png" align="center" width="170" height="170" loading="lazy" /></a>
  
 <a href="https://join.skype.com/ki3n1R3VKh0K" ><img src="skype.png" align="center" width="170" height="170" loading="lazy" /></a>
 
