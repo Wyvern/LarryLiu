@@ -142,11 +142,11 @@ World leading mobile app search & security solution provider.
  
 <a id="im" ><img src="imessage.png" align="center" width="160" height="160" loading="lazy" /></a>
 
-<a href="https://zoom.us/j/93401927414?pwd=S2VaRXR4bnErUytjYWQxdHZLVVd4dz09" ><img src="Zoom.png" align="center" width="170" height="170" loading="lazy" /></a>
+<a href="https://zoom.larry.tk" ><img src="Zoom.png" align="center" width="170" height="170" loading="lazy" /></a>
 
-<a href="https://meet.google.com/aay-nrpp-cfi" ><img src="Meet.png" align="center" width="170" height="170" loading="lazy" /></a>
+<a href="https://meet.larry.tk" ><img src="Meet.png" align="center" width="170" height="170" loading="lazy" /></a>
  
-<a href="https://join.skype.com/ki3n1R3VKh0K" ><img src="skype.png" align="center" width="170" height="170" loading="lazy" /></a>
+<a href="https://skype.larry.tk" ><img src="skype.png" align="center" width="170" height="170" loading="lazy" /></a>
 
 <a href="#user" ><img src="QR.png" align="center" loading="lazy" /></a>
 
