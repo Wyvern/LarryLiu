@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 
-<link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css" onload="this.onload=null;this.rel='stylesheet'">
-<link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/font-awesome-animation@1.1.1/css/font-awesome-animation.min.css" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/font-awesome-animation@latest/css/font-awesome-animation.min.css" onload="this.onload=null;this.rel='stylesheet'">
 
 <h1 id="user" align="center"><a href="#wechat" ><i class="far fa-user-circle fa-2x faa-float animated faa-slow"></i></a></h1>
 
